@@ -83,7 +83,7 @@ GitHub:
 https://github.com/kaushikshivam-stack
 
 LinkedIn:  
-linkedin.com/in/shivam-kaushik-2980023b2
+www.linkedin.com/in/shivam-kaushik-2980023b2
 
 ---
 
