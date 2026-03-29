@@ -75,6 +75,12 @@ While building this project, I practiced:
 
 ---
 
+## 🎥 Demo
+
+![Demo](images/demo.gif)
+
+---
+
 ## 👨‍💻 Author
 
 **Shivam K@ushik**
